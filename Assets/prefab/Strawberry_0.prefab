@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6108890585651271440}
   - component: {fileID: 6108890585651271441}
   - component: {fileID: 6108890585651271442}
-  - component: {fileID: 6108890585651271445}
+  - component: {fileID: 3738106975168212207}
   m_Layer: 0
   m_Name: Strawberry_0
   m_TagString: Untagged
@@ -121,7 +121,7 @@ CapsuleCollider2D:
   m_Offset: {x: 0.0116837025, y: -0.0077888966}
   m_Size: {x: 0.2625594, y: 0.2625599}
   m_Direction: 0
---- !u!114 &6108890585651271445
+--- !u!114 &3738106975168212207
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
